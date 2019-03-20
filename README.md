@@ -1,6 +1,6 @@
 *Nota: Actualmente se encuentra en construcción.*
 
-# Panel introducción a la seguridad
+# Introducción al mundo de la seguridad
 
 La idea de este documento es combatir un poco la desinformación, remover ambigüedades, despejar dudas, y crear un espacio en el que podamos referenciar a futuro como un lugar de partida para cualquier persona que quiera introducirse en la seguridad informática.
 
@@ -12,17 +12,7 @@ Toda la información contenida en este documento, es una recopilación personal 
 # ¿Quiénes somos?
 Amigos, colegas, conocidos; un grupo de personas apasionadas de la seguridad informática, que viven de ello (en su mayoría), y comparten desde la empatía con todos los que están en esta situación de iniciación al aprendizaje o desconcierto, ya que hemos estado allí.
 
-Andrés Riancho
-Federico Pacheco
-Gustavo M. Sorondo
-María Jośe Erquiaga
-Martin Gallo
-Matías A. Ré Medina
-Nicolás Waisman
-Sebastián Bortnik
-Sebastián García
-Sheila Berta
-Verónica Valeros
+Andrés Riancho, Federico Pacheco, Gustavo M. Sorondo, María Jośe Erquiaga, Martin Gallo, Matías A. Ré Medina, Nicolás Waisman, Sebastián Bortnik, Sebastián García, Sheila Berta, Verónica Valeros.
 
 # FAQ
 ## ¿Qué es la seguridad informática?
