@@ -4,7 +4,7 @@
 
 La idea de este documento es combatir un poco la desinformación, remover ambigüedades, despejar dudas, y crear un espacio en el que podamos referenciar a futuro como un lugar de partida para cualquier persona que quiera introducirse en la seguridad informática.
 
-La propuesta no se focaliza en *enseñar habilidades técnicas*, sino en orientar un poco a quienes necesiten una ayuda, se encuentran perdidos ó no saben por cómo armarse camino en esta profesión.
+La propuesta no se focaliza en *enseñar habilidades técnicas*, sino en orientar un poco a quienes necesiten una ayuda, se encuentran perdidos ó no saben cómo armarse camino en esta profesión.
 
 # Disclaimer 
 Toda la información contenida en este documento, es una recopilación personal abierta, por lo tanto es subjetiva, y no está sujeta a ninguna verdad absoluta.
@@ -43,20 +43,20 @@ Muchos lo confunden con Vulnerability Assesment o Penetration Testing, que tiene
 ## ¿Qué cosa no es?
 
  * Una profesión estática donde es posible alcanzar un conocimiento pleno
- * La mayoría de las cosas que vemos en las noticias y películas (si llegaste aquí por las escenas de hacking de distintas peliculas, eso definitivamente no es)
+ * La mayoría de las cosas que vemos en las noticias y películas* (si llegaste aquí por las escenas de hacking de distintas peliculas, eso definitivamente no es)
  * Hackear la cuenta de facebook de la pareja de un amigo
  
-Al final del documento hay buenas recomendaciones por si quieren mirar algo que se asemeje un poco más a la realidad ;)
+(*) Al final del documento hay buenas recomendaciones por si quieren mirar algo que se asemeje un poco más a la realidad ;)
 
 ## No arranqué de jóven, ¿es tarde para mí?
 No hace falta haber hackeado la NASA a los 12 años para poder dedicarte a la seguridad informática el resto de tu vida, ni tener un background *sólido* para comenzar, ni una edad en particular.
 
-Hay que tener ganas, y saber organizarse con el tiempo. Entendemos que todas las situaciones son distintas, pero hey, nadie los corre, así que a disfrutar que es un proceso hermoso de aprendizaje, y si no lo está siendo para tí, ojalá que este documento te motive un poco :)
+Hay que tener ganas, y saber organizarse con el tiempo. Entendemos que todas las situaciones son distintas, pero hey, nadie los corre, así que a disfrutar que es un proceso hermoso de aprendizaje, y si no lo está siendo para vos, ojalá que este documento te motive un poco :)
 
 ## Quiero hackear, pero no se qué estudiar, ni dónde, ¿qué hago?
 No está tan claro el camino, no te preocupes. No hay un lugar específico a donde ir así como los hay en otro tipo de *carreras laborales* donde está más trazado. Si bien existen carreras que son complementarias, no es el único camino a seguir.
 
-Algunas de las carreras universitarias que pueden ayudarte son las relacionadas con la informática, como ciencias de la computación e ingeniera informática. Aunque en estas carreras veas poco de seguridad informatica, vas a entender como funcionan las computadoras por dentro y eso te da una gran ventaja a la hora de intentar identificar vulnerabilidades o solucionarlas.
+Algunas de las carreras universitarias que pueden ayudarte son las relacionadas con la informática, como ciencias de la computación e ingeniera informática. Aunque en estas carreras veas poco del seguridad informatica, vas a entender como funcionan las computadoras por dentro y eso te da una gran ventaja a la hora de intentar identificar vulnerabilidades o solucionarlas.
 
 Elegí lo que te quede más cómodo, recomendamos hacerlo de una manera progresiva para no frustrarte con cosas complicadas desde un principio, y a partir de que se van ganando más conocimientos también se va entendiendo un poco más el panorama, para ese entonces seguramente encontraste algo que te apasionó, y sino revisitar este artículo de ser necesario para volver a orientarse.
 
@@ -140,7 +140,7 @@ Recomendamos ir a todas las conferencias que les parezcan interesantes, y disfru
 
 Algo positivo que tiene en general este ambiente, por lo menos en Argentina, es que la mayoría de nosotros siempre tenemos un momento para charlar con interesados, así que si tienen dudas las pueden despejar en persona con el mismo disertante de la charla.
 
-No dejes de ir a meetups! Existen varios meetups en Argentina que estan relacionados con seguridad informática, son reuniones periodicas, con audiencias reducidas y un par de charlas. Te van a servir para aprender de temas nuevos y conocer gente!
+¡No dejes de ir a meetups! Existen varios meetups en Argentina que estan relacionados con seguridad informática, son reuniones periodicas, con audiencias reducidas y un par de charlas. Te van a servir para aprender de temas nuevos y conocer gente!
 
 ## Red Team, Pentesting, ¿son todos lo mismo?
 
@@ -221,6 +221,17 @@ UNICEN Tandil - Introducción a la seguridad informática (optativa)
 ## Películas & Series
 - Mr. Robot: La serie que históricamente tiene más contenido real del mundo del hacking.
 - Hackers: Un clásico.
+
+# Eventos públicos
+
+## Meetups
+[TandilSec](httpsL//twitter.com/tandilsec), [Meetup](https://www.meetup.com/TandilSec/) - Tandil, Provincia de Bs As
+[R'lyeh Hacklab](https://twitter.com/rlyehlab) - Capital Federal
+[Security Jam](https://twitter.com/securityjam) - Capital Federal
+
+## Conferencias
+[Ekoparty security conference](https://ekoparty.org) - @ekoparty
+[Andsec conference](https://andsec.org) - @andseccon
 
 
 # Referencias
