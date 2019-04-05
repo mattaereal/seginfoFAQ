@@ -6,7 +6,7 @@ La idea de este documento es combatir un poco la desinformación, remover ambig�
 
 La propuesta no se focaliza en *enseñar habilidades técnicas*, sino en orientar un poco a quienes necesiten una ayuda, se encuentran perdidos ó no saben cómo armarse camino en esta profesión.
 
-# Disclaimer 
+# Disclaimer
 Toda la información contenida en este documento, es una recopilación personal abierta, por lo tanto es subjetiva, y no está sujeta a ninguna verdad absoluta.
 
 # ¿Quiénes somos?
@@ -17,7 +17,7 @@ Andrés Riancho, Federico Pacheco, Gustavo M. Sorondo, María Jośe Erquiaga, Ma
 # FAQ
 ## ¿Qué es la seguridad informática?
 
-También conocida como ciberseguridad, está definida de la siguiente manera por ISACA (Information Systems Audit and Control Association ):
+También conocida como ciberseguridad, está definida de la siguiente manera por ISACA (Information Systems Audit and Control Association):
 
 > Protección de activos de información, a través del tratamiento de amenazas que ponen en riesgo la información que es procesada, almacenada y transportada por los sistemas de información que se encuentran interconectados"
 
@@ -45,7 +45,7 @@ Muchos lo confunden con Vulnerability Assesment o Penetration Testing, que tiene
  * Una profesión estática donde es posible alcanzar un conocimiento pleno
  * La mayoría de las cosas que vemos en las noticias y películas* (si llegaste aquí por las escenas de hacking de distintas peliculas, eso definitivamente no es)
  * Hackear la cuenta de facebook de la pareja de un amigo
- 
+
 (*) Al final del documento hay buenas recomendaciones por si quieren mirar algo que se asemeje un poco más a la realidad ;)
 
 ## No arranqué de jóven, ¿es tarde para mí?
@@ -65,7 +65,7 @@ Según la RAE, existen dos definiciones:
 - Pirata informático
 - Persona experta en el manejo de computadoras, que se ocupa de la seguridad de los sistemas y de desarrollar técnicas de mejora.
 
-No reconocemos la primera definición, y seguimos sin entender por qué la segunda fue incorporada sin desplazar a la primera. 
+No reconocemos la primera definición, y seguimos sin entender por qué la segunda fue incorporada sin desplazar a la primera.
 
 Un hacker NO es un pirata informático.
 
@@ -76,7 +76,7 @@ Un ejemplo muy común del hacking, que no necesariamente está solapado con util
 _[Introducir más ejemplos]_
 
 ## Lo que me da la universidad no es lo que quiero, ¿qué hago?
-Si bien creés que no te da lo que querés de manera inmediata porque en las prácticas no estás sacudiendo exploits y apoderándote de las máquinas de tus compañeros (nota: no lo hagas sin su consentimiento), las carreras de sistemas tienen un aporte y una formación que es indiscutible.
+Si bien creés que no te dá lo que querés de manera inmediata porque en las prácticas no estás sacudiendo exploits y apoderándote de las máquinas de tus compañeros (nota: no lo hagas sin su consentimiento), las carreras de sistemas tienen un aporte y una formación que es indiscutible.
 
 Más allá de la universidad, y el título, si aprovechás cada materia, y la pivoteás para el lado de la seguridad, podés aprender un montón, e ir haciendo en paralelo tu propia carrera complementaria con lo que ves ahí. Y, si además conseguís algún titular que te segundee para que en los trabajos prácticos haya la flexibilidad suficiente para poder incoporporar este complemento del que hablamos, muchísimo mejor.
 
@@ -179,7 +179,7 @@ Es algo que eventualmente, con el tiempo, va a llegar.
 
 Cada uno arma su propio camino, no hay una forma única de hacer esto. Esto es muy nuevo para todo el mundo. Así como nosotros tomamos decisiones en ese momento para ver como podíamos ir mejorando, ustedes deberán hacer lo mismo.
 
-Hay que entender que probablemente uno no venga con una pasión adentro, está bueno utilizar la curiosidad como motor, probando, buscando, experimentando. Es cuestión de 
+Hay que entender que probablemente uno no venga con una pasión adentro, está bueno utilizar la curiosidad como motor, probando, buscando, experimentando. Es cuestión de
 
 Hackeá tu propio camino al hacking :)
 
@@ -225,13 +225,19 @@ UNICEN Tandil - Introducción a la seguridad informática (optativa)
 # Eventos públicos
 
 ## Meetups
-[TandilSec](httpsL//twitter.com/tandilsec), [Meetup](https://www.meetup.com/TandilSec/) - Tandil, Provincia de Bs As
-[R'lyeh Hacklab](https://twitter.com/rlyehlab) - Capital Federal
-[Security Jam](https://twitter.com/securityjam) - Capital Federal
+
+- [TandilSec](https://www.meetup.com/TandilSec/) - [@TandilSec](https://twitter.com/tandilsec) - Tandil, Provincia de Buenos Aires
+- [R'lyeh Hacklab](https://rlab.be/) - [@rlyehlab](https://twitter.com/rlyehlab) - Ciudad de Buenos Aires
+- [Security Jam](https://twitter.com/securityjam) - Ciudad de Buenos Aires
+- [404 Zone](https://404zone.com/) - [@404Zone](https://twitter.com/404Zone) - Ituzaingó, Provincia de Buenos Aires
+- [Application Security BA](https://www.meetup.com/app-sec-ba/) - Ciudad de Buenos Aires
 
 ## Conferencias
-[Ekoparty security conference](https://ekoparty.org) - @ekoparty
-[Andsec conference](https://andsec.org) - @andseccon
+
+- [Ekoparty security conference](https://ekoparty.org/) - [@ekoparty](https://twitter.com/ekoparty) - Ciudad de Buenos Aires
+- [Andsec conference](https://andsec.org/) - [@andseccon](https://twitter.com/andsec) - Ciudad de Buenos Aires
+- [ParanaConf](https://www.paranaconf.org/) - [@paranaconf](https://twitter.com/ParanaConf) - Paraná, Entre Ríos
+- [PampaSeg](https://www.pampaseg.org/) - [@pampaseg](https://twitter.com/PampaSeg) - Santa Rosa, La Pampa
 
 
 # Referencias
