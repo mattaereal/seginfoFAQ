@@ -12,17 +12,19 @@
     5. [No arranqué de jóven, ¿es tarde para mí?](#arrancar-joven)
     6. [Quiero hackear, pero no se qué estudiar, ni dónde, ¿qué hago?](#que-estudiar)
     7. [Lo que me da la universidad no es lo que quiero, ¿qué hago?](#universidad-quiero)
-    8. [¿Creen que es necesario crear una carrera de seguridad informática?](#necesito-carrera)
-    9. [¿Son recomendables las certificaciones?](#certificaciones)
-    10. [¿Cuál es la mejor manera de aprender?](#manera-aprender)
-    11. [¿Que sería lo básico que necesito para la seguridad informática?](#conocimiento-basico)
-    12. [¿Qué perfiles se encuentran en el mundo laboral?](#perfiles-laborales)
-    13. [¿Por qué hay más foco en lo ofensivo que en lo defensivo?](#foco)
-    14. [¿Cómo ven el futuro de la seguridad informática?](#futuro)
-    15. [Si recién empiezo, ¿es un desperdicio ir a una conferencia?](#comenzar-conferencia)
-    16. [Red Team, Pentesting, ¿son todos lo mismo?](#redteam-pentest)
-    17. [Más allá de las ramas, ¿qué cosas se pueden hacer?](#que-mas-ramas)
-    18. [¿Qué acercamiento se tiene desde la seguridad con respecto a la educación que se brinda hoy en día?](#educacion)
+    8. [¿Creen que es necesario crear una carrera de seguridad informática?](#necesario-carrera)
+    9. [¿Qué acercamiento se tiene desde la seguridad con respecto a la educación que se brinda hoy en día?](#educacion)
+    10. [¿Son recomendables las certificaciones?](#certificaciones)
+    11. [¿Cuál es la mejor manera de aprender?](#manera-aprender)
+    12. [¿Que sería lo básico que necesito para la seguridad informática?](#conocimiento-basico)
+    13. [¿Qué perfiles se encuentran en el mundo laboral?](#perfiles-laborales)
+    14. [¿Por qué hay más foco en lo ofensivo que en lo defensivo?](#foco)
+    15. [¿Cómo ven el futuro de la seguridad informática?](#futuro)
+    16. [Si recién empiezo, ¿es un desperdicio ir a una conferencia?](#comenzar-conferencia)
+    17. [Red Team, Pentesting, ¿son todos lo mismo?](#redteam-pentest)
+    18. [Más allá de las ramas, ¿qué cosas se pueden hacer?](#que-mas-ramas)
+    19. [¿Hay algún mapa de todos los dominios que abarca la cyberseguridad?](#mindmap)
+    
 5. [Conclusión](#conclusión)
 6. [Recomendaciones generales]($#recomendaciones)
 7. [Más información](#mas-info)
@@ -148,6 +150,13 @@ Por otro lado, no nos gustaría que en el caso de que exista, se utilice para di
 
 (*) Ha habido propuestas pero no han tenido éxito porque en su momento no ha existido el flujo necesario como para que se justifique crear una. Para ello es importante comenzar con optativas, cursos, orientadas a seguridad, empezar a generar más movimiento en el ambiente, hasta que eventualmente termine en algo más extenso que justifique incluirse en un plan académico.
 
+## ¿Qué acercamiento se tiene desde la seguridad con respecto a la educación que se brinda hoy en día?
+<a name="educacion"/>
+
+De a poco vamos *ganando terreno*, mediante concientización. Estamos inculcando de a poco que la seguridad es algo que se aplica como parte del proceso de desarrollo de las aplicaciones, sistemas, y no como algo que viene después.
+
+Es algo que eventualmente, con el tiempo, va a llegar.
+
 ## ¿Son recomendables las certificaciones?
 <a name="certificaciones"/>
 
@@ -243,12 +252,11 @@ Algunas de las categorías, en inglés, son las siguientes:
 - Systems security (user level, kernel, os): aplicación de técnicas de seguridad a nivel sistemas operativos, cloud.
 - Crypyography: testear, crear o romper seguridad relacionada a algoritmos criptográficos o sistemas de cifrados.
 
-## ¿Qué acercamiento se tiene desde la seguridad con respecto a la educación que se brinda hoy en día?
-<a name="educacion"/>
+## Mapa de los dominios de la cyberseguridad
+<a name="mindmap"/>
 
-De a poco vamos *ganando terreno*, mediante concientización. Estamos inculcando de a poco que la seguridad es algo que se aplica como parte del proceso de desarrollo de las aplicaciones, sistemas, y no como algo que viene después.
-
-Es algo que eventualmente, con el tiempo, va a llegar.
+Créditos [Henry Jiang](https://www.linkedin.com/pulse/map-cybersecurity-domains-version-20-henry-jiang-ciso-cissp).
+![Mapa dominios cyberseguridad](https://media.licdn.com/dms/image/C4E12AQHGjOWFyVQLoA/article-inline_image-shrink_1500_2232/0?e=1562198400&v=beta&t=twPmrzhWXHJOjo7_OcRQwbO8YyB8X5KO_O39zdbdpSQ)
 
 # Conclusión
 <a name="conclusion"/>
