@@ -43,7 +43,7 @@
 10. [Proving grounds (mentorship)](#mentorship)
 11. [Salida laboral](#salida-laboral)
 
-# Introducción al mundo de la seguridad
+# Acerca de este FAQ
 <a name="acerca"/>
 
 La idea de este documento es combatir un poco la desinformación, remover ambigüedades, despejar dudas, y crear un espacio en el que podamos referenciar a futuro como un lugar de partida para cualquier persona que quiera introducirse en la seguridad informática.
