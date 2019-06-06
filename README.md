@@ -316,8 +316,8 @@ Hackeá tu propio camino al hacking :)
 ## Guías en inglés
 <a name="guias-en"/>
 
-[Web Security Academy @ PortSwigger](https://portswigger.net/web-security)
-[Which Programming Language Should I Learn First? @ Carlcheo](http://carlcheo.com/startcoding)
+- [Web Security Academy @ PortSwigger](https://portswigger.net/web-security)
+- [Which Programming Language Should I Learn First? @ Carlcheo](http://carlcheo.com/startcoding)
 
 ## Lecturas recomendadas
 <a name="lecturas"/>
