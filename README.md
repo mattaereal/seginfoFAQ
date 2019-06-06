@@ -1,7 +1,7 @@
 *Nota: Actualmente se encuentra en construcción.*
 
 ## Tabla de contenidos
-1. [Introducción al mundo de la seguridad](#intro)  
+1. [Acerca del FAQ](#acerca)  
 2. [Disclaimer](#disclaimer)
 3. [¿Quiénes somos?](#quienes)
 4. [FAQ](#faq)
@@ -44,7 +44,7 @@
 11. [Salida laboral](#salida-laboral)
 
 # Introducción al mundo de la seguridad
-<a name="intro"/>
+<a name="acerca"/>
 
 La idea de este documento es combatir un poco la desinformación, remover ambigüedades, despejar dudas, y crear un espacio en el que podamos referenciar a futuro como un lugar de partida para cualquier persona que quiera introducirse en la seguridad informática.
 
@@ -61,6 +61,8 @@ Toda la información contenida en este documento, es una recopilación personal 
 Amigos, colegas, conocidos; un grupo de personas apasionadas de la seguridad informática, que viven de ello (en su mayoría), y comparten desde la empatía con todos los que están en esta situación de iniciación al aprendizaje o desconcierto, ya que hemos estado allí.
 
 Andrés Riancho, Federico Pacheco, Gustavo M. Sorondo, María Jośe Erquiaga, Martin Gallo, Matías A. Ré Medina, Nicolás Waisman, Sebastián Bortnik, Sebastián García, Sheila Berta, Verónica Valeros.
+
+También agradecemos a Patricio Palladino por su feedback.
 
 # FAQ
 <a name="faq"/>
@@ -85,7 +87,7 @@ Un hacker NO es un pirata informático.
 
 Entendemos por *hacker* a una palabra que no está sólo arraigada a la seguridad informática, sino a la habilidad para poder encontrar funcionalidades en *cosas* que originalmente no fueron destinadas para ese uso, más allá del contexto.
 
-Un ejemplo muy común del hacking, que no necesariamente está solapado con utilizar herramientas tecnológicas, es la ingeniería social. Hay perfiles laborales que se dedicaron a estudiar comportamiento humano, psicología, persuasión, y sin utilizar la informática obtienen información sensible.
+Un ejemplo de *hackers* que utilizan otros tipos de tecnologías, no necesaria y únicamente informática, es la de los perfiles que se dedicaron a estudiar en la psicología el comportamiento humano, la persuasión, y de esa manera obtener información sensible. Esto es más conocido como *ingeniería social* (ver glosario). 
 
 _[Introducir más ejemplos]_
 
@@ -104,7 +106,7 @@ _[Introducir más ejemplos]_
 A nivel organizacional, se podría separar en, pero no limitada a:
 
 **Defensiva (Blue team)**
-Equipo de personas que defiende una organización de atacantes externos. A diferencia del típico equipo que se encarga de asegurar sistemas acorde a estándares, o para que sean *compliance*[1], estos están en constante vigilia protegiendo a la organización.
+Equipo de personas que defiende una organización de atacantes externos. A diferencia de los equipos que se encargan de asegurar sistemas acorde a estándares o para que cumplan ciertas normativas (ver *compliance* en glosario), estos están en constante vigilia protegiendo a la organización.
 
 Una parte que no está *tan* utilizada, al menos en las pequeñas empresas, o es considerada poco popular.
 
@@ -137,7 +139,7 @@ Elegí lo que te quede más cómodo, recomendamos hacerlo de una manera progresi
 ## Lo que me da la universidad no es lo que quiero, ¿qué hago?
 <a name="universidad-quiero"/>
 
-Si bien creés que no te dá lo que querés de manera inmediata porque en las prácticas no estás sacudiendo exploits y apoderándote de las máquinas de tus compañeros (nota: no lo hagas sin su consentimiento), las carreras de sistemas tienen un aporte y una formación que es indiscutible.
+Si bien creés que no te dá lo que querés de manera inmediata porque en las prácticas no estás sacudiendo exploits y apoderándote de las máquinas de tus compañeros (nota: no lo hagas sin su consentimiento), las carreras de sistemas tienen un aporte y una formación que es sumamente útil.
 
 Más allá de la universidad, y el título, si aprovechás cada materia, y la pivoteás para el lado de la seguridad, podés aprender un montón, e ir haciendo en paralelo tu propia carrera complementaria con lo que ves ahí. Y, si además conseguís algún titular que te segundee para que en los trabajos prácticos haya la flexibilidad suficiente para poder incoporporar este complemento del que hablamos, muchísimo mejor.
 
@@ -175,7 +177,7 @@ Lo que está claro es que uno lo podría hacer en la universidad, estudiando par
 
 Es un campo muy versátil y en crecimiento, en el que ningún perfil es incorrecto.
 
-*Sean responsables de sus estudios*, si sienten que la universidad ya no lo es, no gasten energía en culparla, busquen en otro lado, si sienten que necesitan una estructura porque solos no pueden, vayan a la universidad, si ambos caminos no sirvieron sigan buscando que eventualmente lo van a encontrar, y quién sabe, tal vez abran las puertas para darle camino a mucha gente que estuvo en su misma situación.
+*Sean responsables de sus estudios*, si sienten que la universidad ya no lo es, no gasten energía en culparla, busquen en otro lado. Si sienten que necesitan una estructura porque solos no pueden, vayan a la universidad. Si ambos caminos no sirvieron sigan buscando que eventualmente lo van a encontrar, y quién sabe, tal vez abran las puertas para darle camino a mucha gente que estuvo en su misma situación.
 
 ## ¿Que sería lo básico que necesito para la seguridad informática?
 <a name="conocimiento-basico"/>
@@ -199,9 +201,9 @@ En resumen, hay de todo :)
 ## ¿Por qué hay más foco en lo ofensivo que en lo defensivo?
 <a name="foco"/>
 
-Atacar es más divertido que defender, y defender es muchísimo más difícil que atacar.
+Atacar es más divertido que defender, y defender es más difícil que atacar.
 
-Desarrollar una técnica de defensa es también muchísimo más difícil de probar que funciona porque es simplemente esperar hasta que alguien la pueda romper.
+Desarrollar una técnica de defensa es muchísimo más complejo porque tiene que funcionar para TODOS los ataques, y atacar sólamente tiene que funcionar contra ESA particular defensa. El nivel de dificultad está dado por esa asimetría.
 
 También hay muchas investigaciones atacando mecanismos de seguridad, pero que no llegaron a ser una charla, posiblemente ya que no lograron finalmente romperlos, y hay una verdad y es que en algunas conferencias es más atractivo mostrar casos en los que sí.
 
@@ -215,13 +217,15 @@ Hoy en día, luego de campañas de concientización, en el incremento en los ata
 ## Si recién empiezo, ¿es un desperdicio ir a una conferencia?
 <a name="comenzar-conferencia"/>
 
-En absoluto. Incluso nosotros con años de experiencia, siempre nos encontramos con muchas charlas de las cuales no entendemos su mayoría, pero porque también esa es la idea, que los disertantes expongan investigaciones interesantes, muchas de ellas super específicas, a las que dedicaron gran mayor parte de su tiempo, y contra alguien que se dedicó de lleno a un tema en específico no hay punto de comparación.
+En absoluto. Incluso nosotros con años de experiencia, siempre nos encontramos con muchas charlas de las cuales no entendemos su mayoría, pero porque también esa es la idea, que los disertantes expongan investigaciones interesantes, muchas de ellas super específicas, a las que dedicaron la gran mayor parte de su tiempo, y contra alguien que se dedicó de lleno a un tema en específico no hay punto de comparación.
 
 Recomendamos ir a todas las conferencias que les parezcan interesantes, y disfrutarlas. No frustrarse si no entienden, porque no están diseñadas para que todos entiendan todo.
 
 Algo positivo que tiene en general este ambiente, por lo menos en Argentina, es que la mayoría de nosotros siempre tenemos un momento para charlar con interesados, así que si tienen dudas las pueden despejar en persona con el mismo disertante de la charla.
 
 ¡No dejes de ir a meetups! Existen varios meetups en Argentina que estan relacionados con seguridad informática, son reuniones periodicas, con audiencias reducidas y un par de charlas. Te van a servir para aprender de temas nuevos y conocer gente!
+
+El social networking, o dicho de otra manera conocer gente, interactuar, socializar, hacer contactos es sumamente valioso y estos espacios existen para ello.
 
 ## Red Team, Pentesting, ¿son todos lo mismo?
 <a name="redteam-pentest"/>
@@ -255,6 +259,10 @@ Algunas de las categorías, en inglés, son las siguientes:
 ## Mapa de los dominios de la cyberseguridad
 <a name="mindmap"/>
 
+No dejen que este mapa, que es tan sólo una representación de las temáticas, los intimide.
+
+Muchas de estos *dominios* generalmente se ven solapados, otros ya a esta altura los saben o se dan una buena idea si miran con atención, por ejemplo "Desarrollo profesional" y "Análisis de riesgos".
+
 Créditos [Henry Jiang](https://www.linkedin.com/pulse/map-cybersecurity-domains-version-20-henry-jiang-ciso-cissp).
 ![Mapa dominios cyberseguridad](https://media.licdn.com/dms/image/C4E12AQHGjOWFyVQLoA/article-inline_image-shrink_1500_2232/0?e=1562198400&v=beta&t=twPmrzhWXHJOjo7_OcRQwbO8YyB8X5KO_O39zdbdpSQ)
 
@@ -285,6 +293,7 @@ Hackeá tu propio camino al hacking :)
 - exploit (verbo): Acción de utilizar un exploit.
 - exploit (objeto): Programa particularmente diseñádo y/o utilizado para abusar vulnerabilidades en un determinado sistema.
 - compliance: función que tienen las empresas/organizaciones para establecer los procedimientos que aseguren el cumplimiento normativo interno y externo
+- ingeniería social (act.): actividad que describe la influencia de personas a realizar acciones que pueden ser o no lo mejor para su interés
 
 
 ## Cursos gratuitos
@@ -308,11 +317,21 @@ Hackeá tu propio camino al hacking :)
 <a name="guias-en"/>
 
 [Web Security Academy @ PortSwigger](https://portswigger.net/web-security)
+[Which Programming Language Should I Learn First? @ Carlcheo](http://carlcheo.com/startcoding)
 
 ## Lecturas recomendadas
 <a name="lecturas"/>
 
-- Hackers (libro)
+Todos los libros o su gran mayoría hasta el momento poseen su traducción, la razón por la cual están listados en inglés se debe a que son más fáciles de encontrar a la hora de comprarlos.
+
+### Sec Only
+- The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities - Mark Dowd
+
+### Entendimiento general
+- Operating System Concepts Essentials - Abraham Silberschatz, Peter B. Galvin, Greg Gagne
+- Computer Networks - Andrew S. Tanenbaum
+- Accelerate: Building and Scaling High-Performing Technology Organizations - Nicole Forsgren, Jez Humble, Gene Kim
+- The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win - Gene Kim,  Kevin Behr, George Spafford
 
 ## Podcasts
 <a name="podcasts"/>
