@@ -355,6 +355,7 @@ UNICEN Tandil - Introducción a la seguridad informática (optativa)
 
 - [Internet's own boy](https://www.imdb.com/title/tt3268458)
 - [Citizenfour](https://www.imdb.com/title/tt4044364/): Documental sobre Snowden
+- [Documental sobre DEFCON](https://www.youtube.com/watch?v=3ctQOmjQyYg): Documental sobre la conferencia más antigua y grande del mundo. 
 
 
 # Eventos públicos
