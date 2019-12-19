@@ -133,7 +133,7 @@ Hay que tener ganas, y saber organizarse con el tiempo. Entendemos que todas las
 
 No está tan claro el camino, no te preocupes. No hay un lugar específico a donde ir así como los hay en otro tipo de *carreras laborales* donde está más trazado. Si bien existen carreras que son complementarias, no es el único camino a seguir.
 
-Algunas de las carreras universitarias que pueden ayudarte son las relacionadas con la informática, como ciencias de la computación e ingeniera informática. Aunque en estas carreras veas poco del seguridad informatica, vas a entender como funcionan las computadoras por dentro y eso te da una gran ventaja a la hora de intentar identificar vulnerabilidades o solucionarlas.
+Algunas de las carreras universitarias que pueden ayudarte son las relacionadas con la informática, como ciencias de la computación e ingeniera informática. Aunque en estas carreras veas poco de seguridad informatica, vas a entender como funcionan las computadoras por dentro y eso te da una gran ventaja a la hora de intentar identificar vulnerabilidades o solucionarlas.
 
 Elegí lo que te quede más cómodo, recomendamos hacerlo de una manera progresiva para no frustrarte con cosas complicadas desde un principio, y a partir de que se van ganando más conocimientos también se va entendiendo un poco más el panorama, para ese entonces seguramente encontraste algo que te apasionó, y sino revisitar este artículo de ser necesario para volver a orientarse.
 
