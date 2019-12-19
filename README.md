@@ -337,6 +337,8 @@ Todos los libros o su gran mayoría hasta el momento poseen su traducción, la r
 ## Podcasts
 <a name="podcasts"/>
 
+- [Secure Podcast](https://open.spotify.com/show/0TZOiNDNsTnfMltIvrCkmY)
+
 ## Instituciones que tratan la seguridad
 <a name="instituciones-seg"/>
 
