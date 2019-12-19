@@ -33,10 +33,11 @@
     3. [Guías en español](#guias-es)
     4. [Guías en inglés](#guias-en)
     5. [Lecturas recomendadas](#lecturas)
-    6. [Podcasts](#podcasts)
-    7. [Instituciones que tratan la seguridad](#instituciones-seg)
-    8. [Películas & Series](#pelis-series)
-    9. [Documentales](#documentales)
+    6. [Canales de YouTube](#canales-de-yt)
+    7. [Podcasts](#podcasts)
+    8. [Instituciones que tratan la seguridad](#instituciones-seg)
+    9. [Películas & Series](#pelis-series)
+    10. [Documentales](#documentales)
 8. [Eventos públicos](#eventos)
     1. [Meetups](#meetups)
     2. [Conferencias](#conferencias)
@@ -326,6 +327,14 @@ Hackeá tu propio camino al hacking :)
 Todos los libros o su gran mayoría hasta el momento poseen su traducción, la razón por la cual están listados en inglés se debe a que son más fáciles de encontrar a la hora de comprarlos.
 
 ## Canales de YouTube
+<a name="canales-de-yt"/>
+
+- [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+- [Hackear](https://www.youtube.com/channel/UCbA9L1AhdzoTN1FWuQCTn9Q/featured)
+- [GynvaelEN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg)
+- [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+- [Murmus CTF](https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A)
+- [MalwareAnalysisForHedgehogs](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A)
 
 ### Sec Only
 - The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities - Mark Dowd
