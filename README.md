@@ -26,7 +26,7 @@
     19. [¿Hay algún mapa de todos los dominios que abarca la cyberseguridad?](#mindmap)
     
 5. [Conclusión](#conclusión)
-6. [Recomendaciones generales]($#recomendaciones)
+6. [Recomendaciones generales](#recomendaciones)
 7. [Más información](#mas-info)
     1. [Glosario](#glosario)
     2. [Cursos gratuitos](#cursos-gratuitos)
@@ -324,6 +324,8 @@ Hackeá tu propio camino al hacking :)
 <a name="lecturas"/>
 
 Todos los libros o su gran mayoría hasta el momento poseen su traducción, la razón por la cual están listados en inglés se debe a que son más fáciles de encontrar a la hora de comprarlos.
+
+## Canales de YouTube
 
 ### Sec Only
 - The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities - Mark Dowd
