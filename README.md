@@ -335,6 +335,11 @@ Todos los libros o su gran mayoría hasta el momento poseen su traducción, la r
 - [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
 - [Murmus CTF](https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A)
 - [MalwareAnalysisForHedgehogs](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A)
+- [Colin Hardy](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg)
+- [13Cubed](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q)
+- [Guided Hacking](https://www.youtube.com/user/L4DL4D2EUROPE)
+- [Stephen Chapman](https://www.youtube.com/user/seowhistleblower)
+- [PwnFunction](https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A)
 
 ### Sec Only
 - The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities - Mark Dowd
