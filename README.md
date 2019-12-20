@@ -26,17 +26,18 @@
     19. [¿Hay algún mapa de todos los dominios que abarca la cyberseguridad?](#mindmap)
     
 5. [Conclusión](#conclusión)
-6. [Recomendaciones generales]($#recomendaciones)
+6. [Recomendaciones generales](#recomendaciones)
 7. [Más información](#mas-info)
     1. [Glosario](#glosario)
     2. [Cursos gratuitos](#cursos-gratuitos)
     3. [Guías en español](#guias-es)
     4. [Guías en inglés](#guias-en)
     5. [Lecturas recomendadas](#lecturas)
-    6. [Podcasts](#podcasts)
-    7. [Instituciones que tratan la seguridad](#instituciones-seg)
-    8. [Películas & Series](#pelis-series)
-    9. [Documentales](#documentales)
+    6. [Canales de YouTube](#canales-de-yt)
+    7. [Podcasts](#podcasts)
+    8. [Instituciones que tratan la seguridad](#instituciones-seg)
+    9. [Películas & Series](#pelis-series)
+    10. [Documentales](#documentales)
 8. [Eventos públicos](#eventos)
     1. [Meetups](#meetups)
     2. [Conferencias](#conferencias)
@@ -133,7 +134,7 @@ Hay que tener ganas, y saber organizarse con el tiempo. Entendemos que todas las
 
 No está tan claro el camino, no te preocupes. No hay un lugar específico a donde ir así como los hay en otro tipo de *carreras laborales* donde está más trazado. Si bien existen carreras que son complementarias, no es el único camino a seguir.
 
-Algunas de las carreras universitarias que pueden ayudarte son las relacionadas con la informática, como ciencias de la computación e ingeniera informática. Aunque en estas carreras veas poco del seguridad informatica, vas a entender como funcionan las computadoras por dentro y eso te da una gran ventaja a la hora de intentar identificar vulnerabilidades o solucionarlas.
+Algunas de las carreras universitarias que pueden ayudarte son las relacionadas con la informática, como ciencias de la computación e ingeniera informática. Aunque en estas carreras veas poco de seguridad informatica, vas a entender como funcionan las computadoras por dentro y eso te da una gran ventaja a la hora de intentar identificar vulnerabilidades o solucionarlas.
 
 Elegí lo que te quede más cómodo, recomendamos hacerlo de una manera progresiva para no frustrarte con cosas complicadas desde un principio, y a partir de que se van ganando más conocimientos también se va entendiendo un poco más el panorama, para ese entonces seguramente encontraste algo que te apasionó, y sino revisitar este artículo de ser necesario para volver a orientarse.
 
@@ -325,6 +326,21 @@ Hackeá tu propio camino al hacking :)
 
 Todos los libros o su gran mayoría hasta el momento poseen su traducción, la razón por la cual están listados en inglés se debe a que son más fáciles de encontrar a la hora de comprarlos.
 
+## Canales de YouTube
+<a name="canales-de-yt"/>
+
+- [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+- [Hackear](https://www.youtube.com/channel/UCbA9L1AhdzoTN1FWuQCTn9Q/featured)
+- [GynvaelEN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg)
+- [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+- [Murmus CTF](https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A)
+- [MalwareAnalysisForHedgehogs](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A)
+- [Colin Hardy](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg)
+- [13Cubed](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q)
+- [Guided Hacking](https://www.youtube.com/user/L4DL4D2EUROPE)
+- [Stephen Chapman](https://www.youtube.com/user/seowhistleblower)
+- [PwnFunction](https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A)
+
 ### Sec Only
 - The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities - Mark Dowd
 
@@ -336,6 +352,8 @@ Todos los libros o su gran mayoría hasta el momento poseen su traducción, la r
 
 ## Podcasts
 <a name="podcasts"/>
+
+- [Secure Podcast](https://open.spotify.com/show/0TZOiNDNsTnfMltIvrCkmY)
 
 ## Instituciones que tratan la seguridad
 <a name="instituciones-seg"/>
