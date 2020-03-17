@@ -266,7 +266,7 @@ No dejen que este mapa, que es tan sólo una representación de las temáticas, 
 Muchas de estos *dominios* generalmente se ven solapados, otros ya a esta altura los saben o se dan una buena idea si miran con atención, por ejemplo "Desarrollo profesional" y "Análisis de riesgos".
 
 Créditos [Henry Jiang](https://www.linkedin.com/pulse/map-cybersecurity-domains-version-20-henry-jiang-ciso-cissp).
-![Mapa dominios cyberseguridad](https://media.licdn.com/dms/image/C4E12AQHGjOWFyVQLoA/article-inline_image-shrink_1500_2232/0?e=1562198400&v=beta&t=twPmrzhWXHJOjo7_OcRQwbO8YyB8X5KO_O39zdbdpSQ)
+![Mapa dominios cyberseguridad](./Cybersecurity%20Domains%20v2%20Spanish.png)
 
 # Conclusión
 <a name="conclusion"/>
