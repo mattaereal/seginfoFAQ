@@ -41,6 +41,7 @@
 8. [Eventos públicos](#eventos)
     1. [Meetups](#meetups)
     2. [Conferencias](#conferencias)
+    3. [Infosec Twitter](#infosec-twitter)
 9. [Referencias](#referencias)
 10. [Proving grounds (mentorship)](#mentorship)
 11. [Salida laboral](#salida-laboral)
@@ -301,6 +302,7 @@ Hackeá tu propio camino al hacking :)
 ## Cursos gratuitos
 <a name="cursos-gratuitos"/>
 
+Se encuentran cursos gratuitos en todas las siguientes plataformas, los idiomas pueden variar. En el futuro agregaremos links a los cursos más recomendados.
 - Coursera
 - edX
 - Cybrary
@@ -310,12 +312,15 @@ Hackeá tu propio camino al hacking :)
 - Cardiff
 - MIT OpenCourseware
 
-## Guías en español
+## Links de gran utilidad en Español
 <a name="guias-es"/>
 
-[Guía de auto-estudio para la escritura de exploits - Fundación Sadosky](https://fundacion-sadosky.github.io/guia-escritura-exploits)
+- [Guía de auto-estudio para la escritura de exploits - Fundación Sadosky](https://fundacion-sadosky.github.io/guia-escritura-exploits)
+- [Web Security Checklist en español (una "hoja de ruta" ideal para Bug Bounty & Pentesting)](https://github.com/alanbriangh/Magic-CheckList-for-Web-Applications)
+- [Artículos en Español subidos a Exploit Database](https://www.exploit-db.com/papers?language=spanish)
 
-## Guías en inglés
+
+## Links de gran utilidad en Inglés
 <a name="guias-en"/>
 
 - [Web Security Academy @ PortSwigger](https://portswigger.net/web-security)
@@ -324,7 +329,61 @@ Hackeá tu propio camino al hacking :)
 ## Lecturas recomendadas
 <a name="lecturas"/>
 
-Todos los libros o su gran mayoría hasta el momento poseen su traducción, la razón por la cual están listados en inglés se debe a que son más fáciles de encontrar a la hora de comprarlos.
+Todos los libros o su gran mayoría hasta el momento poseen su traducción (si es que no están ya presentados en español), la razón por la cual están listados en inglés se debe a que son más fáciles de encontrar a la hora de comprarlos.
+
+### Español
+- [Introducción a DevOps y DevSecOps](https://devsecops-argentina.org/contenidos/introduccion-a-devops-y-devsecops.pdf)
+- [DevSecOps Security testing Automation](https://devsecops-argentina.org/contenidos/devsecops-ast.pdf)
+- [KEEP CALMS AND DEV SEC OPS](https://devsecops-argentina.org/contenidos/ebook-devsecops-calms.pdf)
+- [Criptografía by Fede Pacheco. RedUSERS](https://www.goodreads.com/book/show/24647630-criptograf-a)
+- [Web Hacking by Sheila Berta. RedUSERS](https://www.goodreads.com/book/show/43289029-web-hacking)
+- [Qué es la seguridad informática, by Hugo D. Scolnik](https://www.goodreads.com/book/show/27871413-qu-es-la-seguridad-inform-tica)
+- [Ethical Hacking: Un Enfoque Metodológico Para Profesionales, by Ezequiel Martin Sallis](https://www.goodreads.com/book/show/10408503-ethical-hacking)
+- [Seguridad informática - Hacking Ético: Conocer el ataque para una mejor defensa (3ª edición)](https://books.google.com.ar/books/about/Seguridad_inform%C3%A1tica_Hacking_%C3%89tico.html?id=4X32wbgtNfUC&printsec=frontcover&source=kp_read_button&redir_esc=y#v=onepage&q&f=false)
+- [Ethical Hacking 2.0: Implementación de un sistema para la gestión de la seguridad](https://www.goodreads.com/book/show/23705212-ethical-hacking-2-0)
+
+### Destacados
+- The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities - Mark Dowd
+
+### Entendimiento general
+
+## Fundamental
+- Operating System Concepts Essentials - Abraham Silberschatz, Peter B. Galvin, Greg Gagne
+- Computer Networks - Andrew S. Tanenbaum
+
+## Holístico
+- Accelerate: Building and Scaling High-Performing Technology Organizations - Nicole Forsgren, Jez Humble, Gene Kim
+- The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win - Gene Kim,  Kevin Behr, George Spafford
+
+## Concientización
+- [Vigilancia Permanente, by Edward Snowden](https://www.goodreads.com/book/show/52043209-vigilancia-permanente)
+
+## Podcasts
+<a name="podcasts"/>
+
+- [Secure Podcast](https://open.spotify.com/show/0TZOiNDNsTnfMltIvrCkmY): podcast desestructurado sobre infosec.
+- [El Tao Del Hacking](https://open.spotify.com/show/5ZqkzIfpgknpCq6mx1yKG5?si=uqyxLMFuTD2uTYf_iSfgaQ): dedicado a la educación en seguridad de la información.
+
+## Instituciones que tratan la seguridad
+<a name="instituciones-seg"/>
+
+- [UTNBA Buenos Aires - Diplomatura en Seguridad de la Información](https://sceu.frba.utn.edu.ar/course/diplomatura-en-seguridad-de-la-informacion/)
+
+
+## Películas & Series
+<a name="pelis-series"/>
+
+- [Mr. Robot](https://www.imdb.com/title/tt4158110/): La serie que históricamente tiene más contenido real del mundo del hacking.
+- [Hackers](https://www.imdb.com/title/tt0113243/): Un clásico.
+- [Snowden](https://www.imdb.com/title/tt3774114/): Sobre Snowden.
+
+## Documentales
+<a name="documentales"/>
+
+- [Internet's own boy](https://www.imdb.com/title/tt3268458): Documental sobre Aaron Swartz.
+- [Citizenfour](https://www.imdb.com/title/tt4044364/): Documental sobre Snowden.
+- [Documental sobre DEFCON](https://www.youtube.com/watch?v=3ctQOmjQyYg): Documental sobre la conferencia más antigua y grande del mundo. 
+- [The Great Hack](https://imdb.com/title/tt9358204/?ref_=nv_sr_srsg_0): Documental sobre el escándalo con Cambridge Analytica.
 
 ## Canales de YouTube
 <a name="canales-de-yt"/>
@@ -340,41 +399,6 @@ Todos los libros o su gran mayoría hasta el momento poseen su traducción, la r
 - [Guided Hacking](https://www.youtube.com/user/L4DL4D2EUROPE)
 - [Stephen Chapman](https://www.youtube.com/user/seowhistleblower)
 - [PwnFunction](https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A)
-
-### Sec Only
-- The Art of Software Security Assessment: Identifying and Preventing Software Vulnerabilities - Mark Dowd
-
-### Entendimiento general
-- Operating System Concepts Essentials - Abraham Silberschatz, Peter B. Galvin, Greg Gagne
-- Computer Networks - Andrew S. Tanenbaum
-- Accelerate: Building and Scaling High-Performing Technology Organizations - Nicole Forsgren, Jez Humble, Gene Kim
-- The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win - Gene Kim,  Kevin Behr, George Spafford
-
-## Podcasts
-<a name="podcasts"/>
-
-- [Secure Podcast](https://open.spotify.com/show/0TZOiNDNsTnfMltIvrCkmY)
-
-## Instituciones que tratan la seguridad
-<a name="instituciones-seg"/>
-
-UNICEN Tandil - Introducción a la seguridad informática (optativa)
-
-
-## Películas & Series
-<a name="pelis-series"/>
-
-- [Mr. Robot](https://www.imdb.com/title/tt4158110/): La serie que históricamente tiene más contenido real del mundo del hacking.
-- [Hackers](https://www.imdb.com/title/tt0113243/): Un clásico.
-- [Snowden](https://www.imdb.com/title/tt3774114/)
-
-## Documentales
-<a name="documentales"/>
-
-- [Internet's own boy](https://www.imdb.com/title/tt3268458)
-- [Citizenfour](https://www.imdb.com/title/tt4044364/): Documental sobre Snowden
-- [Documental sobre DEFCON](https://www.youtube.com/watch?v=3ctQOmjQyYg): Documental sobre la conferencia más antigua y grande del mundo. 
-
 
 # Eventos públicos
 <a name="eventos"/>
@@ -395,7 +419,29 @@ UNICEN Tandil - Introducción a la seguridad informática (optativa)
 - [Andsec conference](https://andsec.org/) - [@andseccon](https://twitter.com/andsec) - Ciudad de Buenos Aires
 - [ParanaConf](https://www.paranaconf.org/) - [@paranaconf](https://twitter.com/ParanaConf) - Paraná, Entre Ríos
 - [PampaSeg](https://www.pampaseg.org/) - [@pampaseg](https://twitter.com/PampaSeg) - Santa Rosa, La Pampa
+- [BSidesCordoba](https://bsidescordoba.org/) - [@bsidesar](https://twitter.com/BSidesAR) - Córdoba, Córdoba
 
+## Infosec Twitter
+<a name="infosec-twitter"/>
+
+Estas son algunas de las cuentas más activas o útiles que te recomendamos seguir:
+- [@BSidesAR](https://twitter.com/BSidesAR)
+- [@devsecops_ar](https://twitter.com/devsecops_ar)
+- [@DragonJAR](https://twitter.com/DragonJAR)
+- [@ekoparty](https://twitter.com/ekoparty)
+- [@eltaodelhacking](https://twitter.com/eltaodelhacking)
+- [@H4ckThePl4net](https://twitter.com/H4ckThePl4net)
+- [@Hackear_ARG](https://twitter.com/Hackear_ARG)
+- [@hamping_org](https://twitter.com/hamping_org)
+- [@l0ckpickar](https://twitter.com/l0ckpickar)
+- [@linuxchixar](https://twitter.com/linuxchixar)
+- [@PampaSeg](https://twitter.com/PampaSeg)
+- [@ParanaConf](https://twitter.com/ParanaConf)
+- [@pibasdeinfosec](https://twitter.com/pibasdeinfosec)
+- [@SecurePodcast](https://twitter.com/SecurePodcast)
+- [@securityjam](https://twitter.com/securityjam)
+- [@tandilsec](https://twitter.com/tandilsec)
+ 
 
 # Referencias
 <a name="referencias"/>
@@ -405,14 +451,12 @@ UNICEN Tandil - Introducción a la seguridad informática (optativa)
 # Salida laboral
 <a name="salida-laboral"/>
 
-- Proving grounds (en construcción)
-- ekodating (on site en ekoparty)
+- Proving grounds (*work in progress*)
+- ekodating (by ekoparty)
 
 # Proving grounds (mentorship)
 <a name="mentorship"/>
 
-*Insertar: Descripción del sistema de mentoring*
-
-*Insertar: Formulario*
+*Work in progress*
 
 
