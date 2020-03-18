@@ -347,15 +347,15 @@ Todos los libros o su gran mayoría hasta el momento poseen su traducción (si e
 
 ### Entendimiento general
 
-## Fundamental
+#### Fundamental
 - Operating System Concepts Essentials - Abraham Silberschatz, Peter B. Galvin, Greg Gagne
 - Computer Networks - Andrew S. Tanenbaum
 
-## Holístico
+#### Holístico
 - Accelerate: Building and Scaling High-Performing Technology Organizations - Nicole Forsgren, Jez Humble, Gene Kim
 - The Phoenix Project: A Novel About IT, DevOps, and Helping Your Business Win - Gene Kim,  Kevin Behr, George Spafford
 
-## Concientización
+#### Concientización
 - [Vigilancia Permanente, by Edward Snowden](https://www.goodreads.com/book/show/52043209-vigilancia-permanente)
 
 ## Podcasts
