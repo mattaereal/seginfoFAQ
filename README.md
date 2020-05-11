@@ -373,22 +373,23 @@ Todos los libros o su gran mayoría hasta el momento poseen su traducción (si e
 ## Películas & Series
 <a name="pelis-series"/>
 
-- [Mr. Robot](https://www.imdb.com/title/tt4158110/): La serie que históricamente tiene más contenido real del mundo del hacking.
-- [Hackers](https://www.imdb.com/title/tt0113243/): Un clásico.
-- [Snowden](https://www.imdb.com/title/tt3774114/): Película basada en la historia de Snowden.
-- [The Fifth State](https://www.imdb.com/title/tt1837703): Película basada en la historia de WikiLeaks.
+- [Hackers (1995)](https://www.imdb.com/title/tt0113243/): Un clásico.
+- [The Fifth State (2013)](https://www.imdb.com/title/tt1837703): Película basada en la historia de WikiLeaks.
+- [Snowden (2016)](https://www.imdb.com/title/tt3774114/): Película basada en la historia de Snowden.
+- [Mr. Robot (2015–2019)](https://www.imdb.com/title/tt4158110/): La serie que históricamente tiene más contenido real del mundo del hacking.
 
 ## Documentales
 <a name="documentales"/>
-- [We Are Legion: The Story of the Hacktivists](https://www.imdb.com/title/tt1837703): Documental sobre Anonymous y LulzSec.
-- [The Pirate Bay: Away From Keyboard](): Documental sobre The Pirate Bay.
-- [We Steal Secrets: The Story of WikiLeaks](https://www.imdb.com/title/tt1824254/): La historia de WikiLeaks.
-- [Risk](https://www.imdb.com/title/tt4964772/): La historia de Julián Assagne.
-- [iHuman](https://www.imdb.com/title/tt11279794/): Documental sobre inteligencia artificial relacionado a la privacidad.
-- [Internet's own boy](https://www.imdb.com/title/tt3268458): Documental sobre Aaron Swartz.
-- [Citizenfour](https://www.imdb.com/title/tt4044364/): Documental sobre Snowden.
-- [Documental sobre DEFCON](https://www.youtube.com/watch?v=3ctQOmjQyYg): Documental sobre la conferencia más antigua y grande del mundo. 
-- [The Great Hack](https://imdb.com/title/tt9358204/?ref_=nv_sr_srsg_0): Documental sobre el escándalo con Cambridge Analytica.
+
+- [Documental sobre DEFCON (2012)](https://www.youtube.com/watch?v=3ctQOmjQyYg): Documental sobre la conferencia más antigua y grande del mundo. 
+- [We Are Legion: The Story of the Hacktivists (2013)](https://www.imdb.com/title/tt1837703): Documental sobre 4chan, el subforo /b/, el surgimiento de Anonymous y LulzSec.
+- [The Pirate Bay: Away From Keyboard (2013)](https://www.imdb.com/title/tt2608732): Documental sobre The Pirate Bay, su historia, sus juicios, y su permanencia.
+- [We Steal Secrets: The Story of WikiLeaks (2013)](https://www.imdb.com/title/tt1824254/): La historia de WikiLeaks.
+- [Internet's own boy (2014)](https://www.imdb.com/title/tt3268458): Documental sobre Aaron Swartz, y el mal manejo del poder del gobierno para sentar un ejemplo contra el hacktivismo.
+- [Citizenfour (2014)](https://www.imdb.com/title/tt4044364/): Documental sobre Edward Snowden, whistleblower de la NSA.
+- [Risk (2016)](https://www.imdb.com/title/tt4964772/): La íntima historia de Julián Assagne, fundador de WikiLeaks.
+- [The Great Hack (2019)](https://imdb.com/title/tt9358204/?ref_=nv_sr_srsg_0): Documental sobre el escándalo con Cambridge Analytica (Facebook, campaña de Trump).
+- [iHuman (2019)](https://www.imdb.com/title/tt11279794/): Documental sobre inteligencia artificial relacionado a la privacidad.
 
 ## Canales de YouTube
 <a name="canales-de-yt"/>
