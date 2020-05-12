@@ -293,11 +293,7 @@ Hackeá tu propio camino al hacking :)
 ## Glosario
 <a name="glosario"/>
 
-- exploit (verbo): Acción de utilizar un exploit.
-- exploit (objeto): Programa particularmente diseñádo y/o utilizado para abusar vulnerabilidades en un determinado sistema.
-- compliance: función que tienen las empresas/organizaciones para establecer los procedimientos que aseguren el cumplimiento normativo interno y externo
-- ingeniería social (act.): actividad que describe la influencia de personas a realizar acciones que pueden ser o no lo mejor para su interés
-
+Se ha creado un documento a parte para el glosario [aquí](Glosario.md).
 
 ## Cursos gratuitos
 <a name="cursos-gratuitos"/>
