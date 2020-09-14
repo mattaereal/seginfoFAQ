@@ -390,6 +390,7 @@ Todos los libros o su gran mayoría hasta el momento poseen su traducción (si e
 ## Canales de YouTube
 <a name="canales-de-yt"/>
 
+- [Ekoparty](https://www.youtube.com/channel/UCiVNwNkoMapaeyr9o6XEonA)
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 - [Hackear](https://www.youtube.com/channel/UCbA9L1AhdzoTN1FWuQCTn9Q/featured)
 - [GynvaelEN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg)
