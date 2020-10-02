@@ -257,7 +257,7 @@ Algunas de las categorías, en inglés, son las siguientes:
 - Forensics: técnicas forenses.
 - Penetration Testing: tests de penetración.
 - Systems security (user level, kernel, os): aplicación de técnicas de seguridad a nivel sistemas operativos, cloud.
-- Crypyography: testear, crear o romper seguridad relacionada a algoritmos criptográficos o sistemas de cifrados.
+- Cryptography: testear, crear o romper seguridad relacionada a algoritmos criptográficos o sistemas de cifrados.
 
 ## Mapa de los dominios de la cyberseguridad
 <a name="mindmap"/>
