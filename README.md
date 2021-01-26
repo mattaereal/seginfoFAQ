@@ -37,9 +37,10 @@
     7. [Servers de Discord](#servers-de-discord)
     8. [Servers de Slack](#servers-de-slack)
     9. [Podcasts](#podcasts)
-    10. [Instituciones que tratan la seguridad](#instituciones-seg)
-    11. [Películas & Series](#pelis-series)
-    12. [Documentales](#documentales)
+    10. [Grupos de Telegram](#telegram)
+    11. [Instituciones que tratan la seguridad](#instituciones-seg)
+    12. [Películas & Series](#pelis-series)
+    13. [Documentales](#documentales)
 8. [Eventos públicos](#eventos)
     1. [Meetups](#meetups)
     2. [Conferencias](#conferencias)
@@ -390,6 +391,14 @@ Todos los libros o su gran mayoría hasta el momento poseen su traducción (si e
 
 - [Secure Podcast](https://open.spotify.com/show/0TZOiNDNsTnfMltIvrCkmY): podcast desestructurado sobre infosec.
 - [El Tao Del Hacking](https://open.spotify.com/show/5ZqkzIfpgknpCq6mx1yKG5?si=uqyxLMFuTD2uTYf_iSfgaQ): dedicado a la educación en seguridad de la información.
+
+## Grupos de Telegram
+<a name="telegram"/>
+
+- [CracksLatinoS [CLS]](https://t.me/crackslatinos)
+- [BlueSpace](https://t.me/BlueSpaceSec)
+- [Rlyeh Hacklab](https://t.me/RlyehLab)
+- [Burp Suite en Español](https://t.me/burpsuitegroup)
 
 ## Instituciones que tratan la seguridad
 <a name="instituciones-seg"/>
