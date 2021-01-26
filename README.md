@@ -356,6 +356,34 @@ Todos los libros o su gran mayoría hasta el momento poseen su traducción (si e
 #### Concientización
 - [Vigilancia Permanente, by Edward Snowden](https://www.goodreads.com/book/show/52043209-vigilancia-permanente)
 
+## Canales de YouTube
+<a name="canales-de-yt"/>
+
+- [Ekoparty](https://www.youtube.com/channel/UCiVNwNkoMapaeyr9o6XEonA)
+- [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+- [Hackear](https://www.youtube.com/channel/UCbA9L1AhdzoTN1FWuQCTn9Q/featured)
+- [GynvaelEN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg)
+- [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
+- [Murmus CTF](https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A)
+- [MalwareAnalysisForHedgehogs](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A)
+- [Colin Hardy](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg)
+- [13Cubed](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q)
+- [Guided Hacking](https://www.youtube.com/user/L4DL4D2EUROPE)
+- [Stephen Chapman](https://www.youtube.com/user/seowhistleblower)
+- [PwnFunction](https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A)
+
+## Servers de Discord
+<a name="servers-de-discord"/>
+
+- [Black Hills Information Security](https://discord.gg/mS8PT6HtcV)
+- [TrustedSec](https://discord.gg/trustedsec)
+- [HackTheBox - Argentina [Canal No Oficial]](https://discord.gg/S7AtATyvnj)
+
+## Servers de Slack
+<a name="servers-de-slack"/>
+
+- [BloodHound Gang](https://bloodhoundgang.herokuapp.com/)
+
 ## Podcasts
 <a name="podcasts"/>
 
@@ -388,34 +416,6 @@ Todos los libros o su gran mayoría hasta el momento poseen su traducción (si e
 - [Risk (2016)](https://www.imdb.com/title/tt4964772/): La íntima historia de Julián Assagne, fundador de WikiLeaks.
 - [The Great Hack (2019)](https://imdb.com/title/tt9358204/?ref_=nv_sr_srsg_0): Documental sobre el escándalo con Cambridge Analytica (Facebook, campaña de Trump).
 - [iHuman (2019)](https://www.imdb.com/title/tt11279794/): Documental sobre inteligencia artificial relacionado a la privacidad.
-
-## Canales de YouTube
-<a name="canales-de-yt"/>
-
-- [Ekoparty](https://www.youtube.com/channel/UCiVNwNkoMapaeyr9o6XEonA)
-- [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
-- [Hackear](https://www.youtube.com/channel/UCbA9L1AhdzoTN1FWuQCTn9Q/featured)
-- [GynvaelEN](https://www.youtube.com/channel/UCCkVMojdBWS-JtH7TliWkVg)
-- [IppSec](https://www.youtube.com/channel/UCa6eh7gCkpPo5XXUDfygQQA)
-- [Murmus CTF](https://www.youtube.com/channel/UCUB9vOGEUpw7IKJRoR4PK-A)
-- [MalwareAnalysisForHedgehogs](https://www.youtube.com/channel/UCVFXrUwuWxNlm6UNZtBLJ-A)
-- [Colin Hardy](https://www.youtube.com/channel/UCND1KVdVt8A580SjdaS4cZg)
-- [13Cubed](https://www.youtube.com/channel/UCy8ntxFEudOCRZYT1f7ya9Q)
-- [Guided Hacking](https://www.youtube.com/user/L4DL4D2EUROPE)
-- [Stephen Chapman](https://www.youtube.com/user/seowhistleblower)
-- [PwnFunction](https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A)
-
-## Servers de Discord
-<a name="servers-de-discord"/>
-
-- [Black Hills Information Security](https://discord.gg/mS8PT6HtcV)
-- [TrustedSec](https://discord.gg/trustedsec)
-- [HackTheBox - Argentina [Canal No Oficial]](https://discord.gg/S7AtATyvnj)
-
-## Servers de Slack
-<a name="servers-de-slack"/>
-
-- [BloodHound Gang](https://bloodhoundgang.herokuapp.com/)
 
 # Eventos públicos
 <a name="eventos"/>
