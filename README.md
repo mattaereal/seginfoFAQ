@@ -34,10 +34,12 @@
     4. [Guías en inglés](#guias-en)
     5. [Lecturas recomendadas](#lecturas)
     6. [Canales de YouTube](#canales-de-yt)
-    7. [Podcasts](#podcasts)
-    8. [Instituciones que tratan la seguridad](#instituciones-seg)
-    9. [Películas & Series](#pelis-series)
-    10. [Documentales](#documentales)
+    7. [Servers de Discord](#servers-de-discord)
+    8. [Servers de Slack](#servers-de-slack)
+    9. [Podcasts](#podcasts)
+    10. [Instituciones que tratan la seguridad](#instituciones-seg)
+    11. [Películas & Series](#pelis-series)
+    12. [Documentales](#documentales)
 8. [Eventos públicos](#eventos)
     1. [Meetups](#meetups)
     2. [Conferencias](#conferencias)
@@ -402,6 +404,18 @@ Todos los libros o su gran mayoría hasta el momento poseen su traducción (si e
 - [Guided Hacking](https://www.youtube.com/user/L4DL4D2EUROPE)
 - [Stephen Chapman](https://www.youtube.com/user/seowhistleblower)
 - [PwnFunction](https://www.youtube.com/channel/UCW6MNdOsqv2E9AjQkv9we7A)
+
+## Servers de Discord
+<a name="servers-de-discord"/>
+
+- [Black Hills Information Security](https://discord.gg/mS8PT6HtcV)
+- [TrustedSec](https://discord.gg/trustedsec)
+- [HackTheBox - Argentina [Canal No Oficial]](https://discord.gg/S7AtATyvnj)
+
+## Servers de Slack
+<a name="servers-de-slack"/>
+
+- [BloodHound Gang](https://bloodhoundgang.herokuapp.com/)
 
 # Eventos públicos
 <a name="eventos"/>
