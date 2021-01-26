@@ -377,6 +377,7 @@ Todos los libros o su gran mayoría hasta el momento poseen su traducción (si e
 
 - [Black Hills Information Security](https://discord.gg/mS8PT6HtcV)
 - [TrustedSec](https://discord.gg/trustedsec)
+- [Porchetta Industries](https://discord.com/invite/sEkn3aa)
 - [HackTheBox - Argentina [Canal No Oficial]](https://discord.gg/S7AtATyvnj)
 
 ## Servers de Slack
